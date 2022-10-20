@@ -7,4 +7,4 @@ author: Dr Marcus Baw
 
 <!-- comment -->
 
-[Download this file in PDF form](pdf/albert-health-clinical-safety-management-file.pdf){ .md-button .md-button--primary }
+[Download this file in PDF form](../pdf/albert-health-clinical-safety-management-file.pdf){ .md-button .md-button--primary }
