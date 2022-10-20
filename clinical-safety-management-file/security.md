@@ -50,7 +50,3 @@ Also within these practices are measures which ensure that the code which is dep
 * We believe that this strategy reduces the risk of errors being introduced into the API code to a very low level.
 
 ### Cyber Essentials
-
-The RCPCH has been certified as compliant with the requirements of the Cyber Essentials scheme
-
-[RCPCH Cyber Essentials certificate](../../_assets/_pdfs/rcpch-cyber-essentials-certificate.pdf)

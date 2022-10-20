@@ -26,6 +26,12 @@ Most importantly, the **discussion and evidence** relating to any given risk is 
 
 ## Monitoring of Risk
 
+### Risk Matrix and Acceptability Criteria
+
+![risk-matrix](_assets/_images/risk-matrix.png)
+
+### GitHub Labels
+
 Using the Label search feature, one can search for Hazards at any Risk Level, in order to triage the most risky Hazards for further action.
 
 [risk-level-5-unacceptable](https://github.com/bawmedical/albert-health-dcb0129-csmf/labels/risk-level-5-unacceptable)  
@@ -36,13 +42,14 @@ Using the Label search feature, one can search for Hazards at any Risk Level, in
 
 - We can filter for multiple labels.
 
-## Deletion
+## Hazard Deletion
 
 Hazards are **never** deleted but may be _closed_ if there is no residual hazard and they are no longer relevant.
 
 ## Alternative views
 
-We are planning to develop a simple application which can view Issues in a tabular form, for familiarity.
+Using the [GitHub Projects](https://github.com/bawmedical/cookiecutter-dcb0129/projects) you can create a tabular (Excel-style) view, or a Kanban (Trello) view of your Hazards. Using built-in GitHub Issues and Pull Requests features you can link Hazards to their mitigations in code, to show a chain of evidence of clinical safety improvements.
+
 
 ## Creating a Hazard
 
