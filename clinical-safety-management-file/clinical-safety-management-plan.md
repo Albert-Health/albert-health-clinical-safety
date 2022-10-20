@@ -22,7 +22,7 @@ This Clinical Risk Management System will be reviewed periodically to ensure tha
 
 ## Audience
 
-This document is for the Albert Health Clinical Safety Team staff that are involved in ensuring the safety of the RCPCH's Healthcare IT systems, products or services, but is made publicly available as part of our commitment to transparency and open governance.
+This document is for the Albert Health Clinical Safety Team staff that are involved in ensuring the safety of the Albert Health Healthcare IT systems, products or services, but is made publicly available as part of our commitment to transparency and open governance.
 
 ## Scope
 
@@ -32,7 +32,7 @@ If clarification is required of whether any system falls within scope of this CR
 
 ## Definitions
 
-Note - Also see the RCPCH Risk Management Strategy
+Note - Also see the Albert Health Risk Management Strategy
 
 **CSO:** Clinical Safety Officer - the person responsible for ensuring that the Healthcare IT Clinical Risk Management System is applied to all clinical systems. The Clinical Safety Officer (CSO) for the Organisation is responsible for ensuring the safety of a Healthcare IT system through the application of clinical risk management. The Clinical Safety Officer must hold a current registration with an appropriate professional body relevant to their training and experience. They also need to be suitably trained and qualified in risk management or have an understanding in principles of risk and safety as applied to Healthcare IT systems. The Clinical Safety Officer ensures that the processes defined by the clinical risk management system are followed.
 
@@ -46,18 +46,16 @@ Organisational management of Healthcare IT related risks is as per the existing 
 
 ### Clinical Risk Management Team Organisation Chart
 
-The RCPCH's team is not yet of a size that it requires an org chart to explain. Left here as a placeholder in case an org chart is needed in the future.
 
 ### Personnel
 
 #### Clinical Safety Officer
 
 Clinical Safety Officer Name: Dr Marcus Baw 
-Clinical Safety Officer Contact: clinicalsafety@albert.health
+Clinical Safety Officer Contact: [clinicalsafety@albert.health](mailto:clinicalsafety@albert.health)
 
 #### Chief Executive Officer
 
-Overall governance for the RCPCH Digital Growth Charts project is provided not by a single individual, but by the RCPCH Digital Growth Charts Project Board, which is composed of senior leadership within the RCPCH and the most eminent clinicians in the field of Growth charts.
 
 ## Governance
 
@@ -71,9 +69,8 @@ Governance for patient safety within the Organisation is provided through the fo
 
 ### Issue tracking
 
-- Open, public issue tracking ensures the widest possible reporting base, and unparalleled access to report issues compared to the majority of Health IT systems. These Issues, tracked in GitHub, directly form part of the development workflow used by the clinical and technical teams.
 
-## Healthcare IT Clinical Risk Management Deliverables
+## Deliverables
 
 ### Clinical Risk Management File (this repository)
 
@@ -85,19 +82,17 @@ The Albert Health Clinical Safety Team will establish a Clinical Risk Management
 
 The CRMP will also identify the resources required to discharge these clinical risk management activities.
 
-### Hazard Log
+### Hazard Log (Issues in this repository)
 
 The Albert Health Clinical Safety Team will establish and maintain a Hazard Log (HL) for each safety related Healthcare IT system. The HL will be controlled and configured in accordance with the Organisation document control /quality management policy \[provide a reference\].
 
-### Clinical Safety Case
+### Clinical Safety Cases
 
 The Albert Health Clinical Safety Team will establish and develop a Clinical Safety Case (CSC) for each safety-related Healthcare IT system:
 
-- RCPCH dGC Application Programming Interface
-- RCPCH Demo React Client (not for direct clinical use)
-- RCPCH React Component
+- Albert Health Voice-based Digital Health Platform
 
-### Clinical Safety Case Report
+### Clinical Safety Case Reports
 
 The Albert Health Clinical Safety Team will issue a Clinical Safety Case Report (CSCR) for each safety related Healthcare IT system. The CSCR will be issued to support initial deployment and will be updated during the lifecycle of the Healthcare IT system should the safety characteristics change. The CSCR will be controlled and configured in accordance with the Organisation’s document control policy \[provide a reference\]. The HL will be made available within the CRMF.
 
@@ -145,10 +140,6 @@ Details of the risk control measure and evidence of effective implementation wil
 
 To support clinical safety activities undertaken during any deployment phases of a project or programme of work the following documentation will be required to form a part of the overall approval process.
 
-Deployment of changes to any of the RCPCH dGC health IT systems follows an industry-standard pattern of 'code promotion' using a Git Branch-based strategy. New features are developed in branches specific to that feature. Following successful testing, user acceptance, and automated tests, a successful feature can be merged into the next branch 'up' which may be an 'alpha' or other nomenclature. The process of merging requires code review by nominated individuals and is a further opportunity for clinical safety review.
-
-Code in the 'live' branch is changed relatively infrequently (except for urgent security or safety updates) but the code which is promoted into 'live' wuld have by then undergone several rounds of review as it progressed through our branch promotion strategy.
-
 ### Incident Management
 
 Clinical Risk Management activities within the Organisation and theHealthcare IT programmes and services offered are completed within the corporate risk management strategy. As such, clinical safety related incidents are dealt with in a similar manner as other incidents within the organisational such as financial,reputational, technical and other service impacting categories.
@@ -157,7 +148,7 @@ Clinical Risk Management activities within the Organisation and theHealthcare IT
 
 ### Security Incident Management Process
 
-Security issues may be responsibly disclosed to growth.digital@rcpch.ac.uk for immediate action. We recognise and respect the work of security researchers and will treat your contribution with gratitude and appropriate action. We do not engage in vexatious CMA litigation.
+Security issues may be responsibly disclosed to [security@albert.health](mailto:security@albert.health) for immediate action. We recognise and respect the work of security researchers and will treat your contribution with gratitude and appropriate action. We do not engage in vexatious CMA litigation.
 
 Internally we treat security issues with the highest priority. Once the 'acute phase' of any security threat is handled, we will then follow the Safety Incident Management Process, usually converting to a public GitHub Issue.
 
