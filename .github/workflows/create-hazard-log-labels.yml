@@ -19,6 +19,6 @@ jobs:
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           yaml-file: .github/labels.yml
-          skip-delete: true # won't delete your existing labels
+          skip-delete: false # if set to true won't delete your existing labels
           dry-run: false
           exclude: 
