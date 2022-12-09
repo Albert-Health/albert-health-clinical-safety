@@ -11,8 +11,8 @@ docs_dir: clinical-safety-management-file
 copyright: Copyright &copy; 2022 Albert Health
 
 # These lines configure the 'GitHub repo' widget on the top right
-repo_url: https://github.com/bawmedical/albert-health-dcb0129-csmf
-repo_name: bawmedical/albert-health-dcb0129-csmf
+repo_url: https://github.com/Albert-Health/albert-health-clinical-safety
+repo_name: Albert-Health/albert-health-clinical-safety
 edit_uri: blob/main/clinical-safety-management-file
 
 # For local development `mkdocs serve` serves the docs locally on this port
@@ -23,6 +23,8 @@ dev_addr: "127.0.0.1:8001"
 
 # Theme settings, fonts, colours
 theme:
+  logo: _assets/_images/Nav_bar_logo-02.png
+  favicon: _assets/_images/favicon.png
   name: material
   features:
     - navigation.instant
@@ -53,7 +55,7 @@ theme:
 # MkDocs plugins
 plugins:
   - git-committers:
-      repository: bawmedical/albert-health-dcb0129-csmf
+      repository: Albert-Health/albert-health-clinical-safety
       branch: main
   - git-revision-date-localized:
       enable_creation_date: true
