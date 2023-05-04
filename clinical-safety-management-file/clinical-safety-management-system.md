@@ -1,6 +1,6 @@
 ---
 title: Clinical Risk Management System
-author: Dr Marcus Baw
+author: REMOVED
 ---
 
 # Clinical Risk Management System
@@ -29,7 +29,7 @@ The review mechanism for update is via Pull Request review on GitHub, with oppor
 
 This document must be **approved** by:
 
-- Dr Marcus Baw, Clinical Safety Officer, Albert Health Clinical Safety Team
+- REMOVED, Clinical Safety Officer, Albert Health Clinical Safety Team
 
 - Following satisfactory review by the Reviewers, the nominated Approvers merge the pull request into the main branch of the code.
 

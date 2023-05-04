@@ -1,6 +1,6 @@
 ---
 title: "Clinical Safety: Overview"
-author: Dr Marcus Baw
+author: REMOVED
 ---
 
 # Clinical Safety of the Albert Health Voice-based Digital Health Platform Project

@@ -27,7 +27,7 @@ An analysis of the Causes of the Hazard
 
 -----
 
-**Assignment**: Assign this Hazard to its Owner. Default owner is the Clinical Safety Officer @pacharanero
+**Assignment**: Assign this Hazard to its Owner. Default owner is the Clinical Safety Officer @REMOVED
 **Labelling**: Add labels according to Severity. Likelihood and Risk Level 
 **Project**: Add to the Project 'Clinical Risk Management'
 

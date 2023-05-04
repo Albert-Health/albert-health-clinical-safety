@@ -1,6 +1,6 @@
 ---
 title: Business Continuity
-author: Dr Marcus Baw
+author: REMOVED
 ---
 
 ## Business Continuity

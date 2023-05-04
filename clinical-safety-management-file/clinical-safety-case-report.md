@@ -1,6 +1,6 @@
 ---
 title: Clinical Safety Case Report
-author: Dr Marcus Baw
+author: REMOVED
 ---
 
 # Clinical Safety Case Report

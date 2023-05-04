@@ -1,6 +1,6 @@
 ---
 title: Hazard Log
-author: Dr Marcus Baw
+author: REMOVED
 ---
 
 # Albert Health Voice-based Digital Health Platform Hazard Log
@@ -57,7 +57,7 @@ Using the [GitHub Projects](https://github.com/bawmedical/cookiecutter-dcb0129/p
 2. Click on New Issue
 3. Use the **Hazard Issue Template** to guide you through adding the necessary information.
 4. Label according to Severity and Likelihood, then calculate Risk Level.
-5. Assign to CSO Dr Marcus Baw ([@pacharanero](https://github.com/pacharanero))
+5. Assign to CSO REMOVED ([@REMOVED](https://github.com/REMOVED))
 6. Save by 'committing' to the repository.
 7. Review and ensure complete.
 8. Invite others to review and comment using @mention or by sharing the URL

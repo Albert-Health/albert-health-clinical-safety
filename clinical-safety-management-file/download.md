@@ -1,6 +1,6 @@
 ---
 title: Downloads
-author: Dr Marcus Baw
+author: REMOVED
 ---
 
 ## PDF export

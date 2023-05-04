@@ -1,6 +1,6 @@
 ---
 title: Contact us
-author: Dr Marcus Baw
+author: REMOVED
 ---
 
 # Contact the Albert Health team

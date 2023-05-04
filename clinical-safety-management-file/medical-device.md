@@ -1,11 +1,11 @@
 ---
 title: Medical Device Registration
-author: Dr Marcus Baw
+author: REMOVED
 ---
 
 # Determination of Medical Device eligibility
 
-Determination of the class of medical device applicable was performed using the [MHRA Medical Device Class tool](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/957090/Software_flow_chart_Ed_1-07b-UKCA__002__FINAL.pdf) on 20th October 2022 by Dr Marcus Baw, with reference to relevant supporting documents and legislation.
+Determination of the class of medical device applicable was performed using the [MHRA Medical Device Class tool](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/957090/Software_flow_chart_Ed_1-07b-UKCA__002__FINAL.pdf) on 20th October 2022 by REMOVED, with reference to relevant supporting documents and legislation.
 
 It was determined that the Albert Health platform **does not** constitute a medical device.
 

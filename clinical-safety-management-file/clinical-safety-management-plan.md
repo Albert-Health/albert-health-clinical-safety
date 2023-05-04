@@ -1,6 +1,6 @@
 ---
 title: Clinical Risk Management Plan
-author: Dr Marcus Baw
+author: REMOVED
 ---
 
 # Clinical Risk Management Plan
@@ -51,7 +51,7 @@ Organisational management of Healthcare IT related risks is as per the existing 
 
 #### Clinical Safety Officer
 
-Clinical Safety Officer Name: Dr Marcus Baw 
+Clinical Safety Officer Name: REMOVED 
 Clinical Safety Officer Contact: [clinicalsafety@albert.health](mailto:clinicalsafety@albert.health)
 
 #### Chief Executive Officer
